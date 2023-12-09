@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "zaid-sample-plugin",
+	"name": "Zaid's Sample Plugin",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Basic Hello World Plugin.",
+	"author": "AceOfHeaVeN",
+	"authorUrl": "https://github.com/AceOfHeaVeN",
 	"isDesktopOnly": false
 }
